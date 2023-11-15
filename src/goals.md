@@ -1,0 +1,2 @@
+# Goals
+The goal of this project is to implement a battle simulator using the pathfinder ruleset with all of the content contained in the [Pathfinder Roleplaying Game Core Reference Document](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2017/01/PFRPG_SRD.pdf), as the rules are described on [d20pfsrd](https://www.d20pfsrd.com/). Additionally, this project aims to implement many of the monsters described in the [d20pfsrd Bestiary](https://www.d20pfsrd.com/bestiary/).

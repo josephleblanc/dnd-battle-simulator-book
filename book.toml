@@ -1,0 +1,6 @@
+[book]
+authors = ["Joseph LeBlanc"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Battle Simulator Book"
