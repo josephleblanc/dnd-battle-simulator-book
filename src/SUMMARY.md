@@ -9,3 +9,5 @@
     - [ System Overview ](./game_systems/combat_system/attack_system/system_overview.md)
     - [ Attack ](./game_systems/combat_system/attack_system/attack.md)
   - [Initiative](./game_systems/combat_system/initiative/intro.md)
+    - [Origin Overview](./game_systems/combat_system/initiative/origin_overview.md)
+    - [Initiative System](./game_systems/combat_system/initiative/system.md)
